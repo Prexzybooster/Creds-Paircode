@@ -1,2 +1,2 @@
-# Xeon-PairCode
+# Prexzy-PairCode
 Pair code generator for whatsapp bots
